@@ -244,6 +244,3 @@ forward-private SSE（高级）
 ## 12.个人信息
 凌宇轩
 学号：3125354064
-
-git remote add origin https://github.com/YUXUAN-LING/crypto-sse-demo.git
-git push -u origin main
