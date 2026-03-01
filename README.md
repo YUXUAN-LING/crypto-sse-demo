@@ -228,7 +228,6 @@ python client/cli.py --help
 
 Bilibili 链接：
 https://www.bilibili.com/video/BV1AQAizNEXo/?vd_source=77589b489aea26e3a3ec64734c9cf528
-建议 3–5 分钟演示结构：
 介绍 SSE 背景：云上存储但不信任服务器
 架构：Client 持钥，Server 存密文 + token 索引
 Demo：init → upload → search（强调 token 随机串、服务器无明文）
