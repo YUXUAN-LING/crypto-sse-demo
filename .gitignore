@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+ruff_cache/
+
+# Virtual env
+venv/
+.venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Project secrets / runtime data
+client/.sse_key
+client/config.json
+data/
+server/data/
+*.log
+
+# Optional: local captures
+*.mp4
+*.mkv

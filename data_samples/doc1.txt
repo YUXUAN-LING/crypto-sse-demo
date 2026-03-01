@@ -1,0 +1,8 @@
+This is a small demo document about cryptography.
+
+We want to show searchable symmetric encryption (SSE):
+- the server stores ciphertext only
+- the client generates a token using HMAC
+- the client decrypts the results locally
+
+Keyword examples: cryptography, encryption, searchable, server, client.

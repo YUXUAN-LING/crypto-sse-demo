@@ -1,0 +1,8 @@
+Doc3: SSE demo extra.
+
+This document repeats some keywords:
+cryptography cryptography cryptography
+privacy privacy
+search search
+
+We also mention FastAPI and AES-GCM.

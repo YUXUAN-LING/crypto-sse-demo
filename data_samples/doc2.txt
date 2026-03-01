@@ -1,0 +1,6 @@
+Demo 文档 2：包含一些中文词汇与英文词汇。
+
+我们要演示：服务器看不到明文与关键字，只能看到密文与 token。
+同时也要诚实说明 SSE 会泄露 search pattern / access pattern。
+
+Keywords: privacy, security, cryptography, search.
