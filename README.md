@@ -226,8 +226,8 @@ python client/cli.py --help
 
 ## 10. 演示视频（B 站）
 
-Bilibili 链接：（粘贴你的链接）
-https://www.bilibili.com/video/XXXXXXXXXXXX/
+Bilibili 链接：
+https://www.bilibili.com/video/BV1AQAizNEXo/?vd_source=77589b489aea26e3a3ec64734c9cf528
 建议 3–5 分钟演示结构：
 介绍 SSE 背景：云上存储但不信任服务器
 架构：Client 持钥，Server 存密文 + token 索引
@@ -245,3 +245,6 @@ forward-private SSE（高级）
 ## 12.个人信息
 凌宇轩
 学号：3125354064
+
+git remote add origin https://github.com/YUXUAN-LING/crypto-sse-demo.git
+git push -u origin main
